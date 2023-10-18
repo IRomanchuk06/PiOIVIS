@@ -15,7 +15,6 @@ __Вариант 89:__ _Создать файл sh и bat, который вып
   <li><h3><a href="#bash_code">Код программы</a></h3></li>
   <li><h3><a href="#bash_example">Примеры работы программы</a></h3></li>
 </ul>
-
 <h1 id="batch" align="center">Batch файл</h1>
 <h1 id="bash" align="center">Bash файл</h1>
 
