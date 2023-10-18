@@ -7,13 +7,13 @@ __Вариант 89:__ _Создать файл sh и bat, который вып
 # Выполнение задачи &#128521;
 <h2><a href="#batch">Batch файл</a></h2>
 <ul>
-  <li><h3><a href="#batch_code">Код программы</a></h3></li>
-  <li><h3><a href="#batch_example">Примеры работы программы</a></h3></li>
+  <li><h3><a href="batch_code">Код программы</a></h3></li>
+  <li><h3><a href="batch_example">Примеры работы программы</a></h3></li>
 </ul>
-<h2><a href="#bash">Bash файл</a></h2>
+<h2><a href="bash">Bash файл</a></h2>
 <ul>
-  <li><h3><a href="#bash_code">Код программы</a></h3></li>
-  <li><h3><a href="#bash_example">Примеры работы программы</a></h3></li>
+  <li><h3><a href="bash_code">Код программы</a></h3></li>
+  <li><h3><a href="bash_example">Примеры работы программы</a></h3></li>
 </ul>
 <h1 id="batch">Batch файл</h1>
 <h1 id="bash">Bash файл</h1>
