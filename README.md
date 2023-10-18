@@ -20,7 +20,7 @@ __Вариант 89:__ _Создать файл sh и bat, который вып
 <p>klgdlksjfgk;lj</p>
 <p>klgdlksjfgk;lj</p>
 <p>klgdlksjfgk;lj</p>
-<p>klgdlksjfgk;lj</p>
+<p>klgdlksjfgdk;lj</p>
 <p>klgdlksjfgk;lj</p>
 <h1 id="bash" align="center">Bash файл</h1>
 
