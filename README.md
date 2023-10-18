@@ -5,17 +5,17 @@ __Вариант 89:__ _Создать файл sh и bat, который вып
 На вход пакетному файлу приходит дата в формате MM/DD/YYYY (как параметр пакетного файла). Вывести в консоль день недели для заданной даты. Обратить внимание на високосный год._
 
 # Выполнение задачи &#128521;
-<h2><a href="#batch">Batch файл</a></h2>
+[<h2>Batch файл</h2>](#batch)
 <ul>
   <li><h3><a href="#batch_code">Код программы</a></h3></li>
   <li><h3><a href="#batch_example">Примеры работы программы</a></h3></li>
 </ul>
-<h2><a href="#bash">Bash файл</a></h2>
+[<h2>Bash файл</h2>](#bash)
 <ul>
   <li><h3><a href="#bash_code">Код программы</a></h3></li>
   <li><h3><a href="#bash_example">Примеры работы программы</a></h3></li>
 </ul>
 
-<h2 id="batch">Batch файл</h2>
-<h2 id="bash">Bash файл</h2>
+<h1 id="batch" align="center">Batch файл</h1>
+<h1 id="bash" align="center">Bash файл</h1>
 
