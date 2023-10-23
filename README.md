@@ -7,8 +7,28 @@ __Вариант 89:__ _Создать файл sh и bat, который вып
 # Выполнение задачи &#128521;
 ## Batch файл
 - ### Код программы
+```batch
+@echo off
+
+chcp 65001 > nul
+
+echo Введите дату в формате MM/DD/YYYY:
+set /p date= 
+
+PowerShell -Command "(get-date %date%).DayOfWeek"
+
+pause
+```
 - ### Примеры работы программы
 ## Bash файл
 - ### Код программы
+```bash
+#!/bin/bash
+
+read data
+WDAY=$(date -d"$data" +%A)
+
+echo "$WDAY"
+```
 - ### Примеры работы программы
 
