@@ -20,6 +20,7 @@ PowerShell -Command "(get-date %date%).DayOfWeek"
 pause
 ```
 - ### Примеры работы программы
+![](https://www.example.com/image.jpg)
 ## Bash файл
 - ### Код программы
 ```bash
